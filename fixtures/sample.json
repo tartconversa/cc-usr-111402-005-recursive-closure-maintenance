@@ -1,0 +1,26 @@
+{
+  "snapshot": "graph-1",
+  "nodes": [
+    "a",
+    "b",
+    "c",
+    "d"
+  ],
+  "edges": [
+    {
+      "evidence_id": "e1",
+      "from": "a",
+      "to": "b"
+    },
+    {
+      "evidence_id": "e2",
+      "from": "b",
+      "to": "c"
+    },
+    {
+      "evidence_id": "e3",
+      "from": "c",
+      "to": "b"
+    }
+  ]
+}
